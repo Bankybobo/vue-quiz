@@ -8,7 +8,7 @@
               </div>
               <div class="col-md-4">
                   <div class="d-flex">
-                        <img src="./assets/logo.png" alt="">
+                        <img src="../logo.png" alt="">
                         <h3 class="pad-down">ue Technology!</h3>
                   </div>
               </div>
